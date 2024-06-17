@@ -12,6 +12,7 @@ The output after all test case is done will be show as follows
 
 For question 3, Thread group as follow:
 
+![Uploading Jmeter.PNG…]()
 
 
 Number of Threads (users): 100
